@@ -1,7 +1,7 @@
 # ROS2 Package for Robot Trajectory Recording and Visualization
 
 ## Overview
-This package provides two ROS2 nodes for recording, saving, and visualizing a robot's trajectory. The nodes are provided as both C++ and python executables for better understanding.
+This package provides two ROS2 nodes for recording, saving, and visualizing a robot's trajectory. The nodes are provided as both C++ and python executables.
 
 ### **1. TrajectorySaver (`trajectory_saver`)**
 - Subscribes to pose data and records the robot's trajectory.
