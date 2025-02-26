@@ -21,7 +21,7 @@ Ensure ROS2 is installed and sourced before running the nodes.
 ### **Clone the package into your project src folder**
 ```sh
 cd ~/your_workspace/src
-git clone 
+git clone https://github.com/alengigijoseph/amr_trajectory_tools.git
 ```
 ### **Build and src your workspace**
 ```sh
